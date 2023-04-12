@@ -1,7 +1,7 @@
 import React from "react";
 
 const ActivityPage = () => {
-  return <div>ActivityPage</div>;
+  return <div>ActivityPage Sample</div>;
 };
 
 export default ActivityPage;
